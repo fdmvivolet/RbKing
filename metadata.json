@@ -1,0 +1,6 @@
+{
+  "name": "RbKing - AI Cloud Engine for Roblox Places",
+  "description": "Next-generation AI and AWS cloud infrastructure engine for Roblox studio creators. Accelerated world generation, real-time analytics, and automated Open Cloud deployments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
